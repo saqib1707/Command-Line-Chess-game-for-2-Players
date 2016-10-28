@@ -5,4 +5,5 @@ To Run this code follow these simple steps---
 2.Make sure u have g++ compiler to run C++ programs.
 3.cd to the directory where u saved it and jst run using g++ command.
 
+Future Plans ---Implementing AI to it so that it can be made into a fully fledged computer game..(for fun)
 Cheers...
